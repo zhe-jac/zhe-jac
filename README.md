@@ -6,6 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zhe-jac)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacob.zheng2007@gmail.com)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jacobzheng-roan.vercel.app/)
 
 ---
 
